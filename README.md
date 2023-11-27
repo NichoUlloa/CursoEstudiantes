@@ -20,3 +20,7 @@ Diagrama de clases detallado (PNG) : +2 décimas
 Funcionalidades requeridas (agregar, buscar, mostrar y eliminar estudiantes) +1 décima
 Buenas prácticas de la implementación de las funcionalidades y Validaciones básicas (no agregar objetos duplicados) +1 décima
 Gestión de datos + 1 décima
+
+UML
+![CursoEstudiantes](https://github.com/NichoUlloa/CursoEstudiantes/assets/145157325/e4faaef8-1621-4f7c-b3f0-c10873a44001)
+
